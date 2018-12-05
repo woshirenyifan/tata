@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hello
 haha
-hehe
+=======
+hello
+>>>>>>> parent of 383af20... Update hello.txt
